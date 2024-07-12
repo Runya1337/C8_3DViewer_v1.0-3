@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>icons/icons8-home-50.png</file>
+        <file>icons/icons8-line-64.png</file>
+        <file>icons/icons8-move-50.png</file>
+        <file>icons/icons8-rotate-50.png</file>
+        <file>icons/icons8-settings-80.png</file>
+        <file>icons/icons8-square-border-80.png</file>
+        <file>icons/icons8-line-width-50.png</file>
+        <file>icons/cube_1.gif</file>
+    </qresource>
+</RCC>
